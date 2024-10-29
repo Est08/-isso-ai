@@ -19,42 +19,37 @@ criaCartao(
     'Consolidação das Leis de Trabalho',
 )
 criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
+    'Fisica I',
+    'O que é potenciometro?',
+    'Aparelho que mede as diferenças de potencial elétrico em condições de quase reversibilidade e as forças eletromotrizes',
 )
 criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
+    'Matematica',
+    'O que é um triangulo isoceles?',
+    'Em geometria, um triângulo isósceles é um triângulo que possui dois lados de mesma medida, isso é, congruentes',
 )
 criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
+    'Lingua Inglesa',
+    'O que é verb to be?',
+    'É um grupo de palavras com sentido de indicar o estado de algo ou alguém',
 )
 criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
+    'Biologia I',
+    'O que é uma ligação covalente?',
+    'Ligação covalente é uma ligação química caracterizada pelo compartilhamento de um ou mais pares de eletrões entre átomos. O nome ligação covalente surgiu em 1939.',
 )
 criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
+    'Biologia',
+    'O que é um ancestral comum?',
+    'Ancestral comum é uma espécie que, através do processo de descendência com modificação, dá origem a novas espécies',
 )
 criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
+    'Geografia',
+    'O que é a Quarta Revolução Industrial?',
+    '3ndústria 4.0 ou Quarta Revolução Industrial é uma expressão que engloba algumas tecnologias para automação e troca de dados e utiliza conceitos de Sistemas ciber-físicos, Internet das Coisas e Computação em Nuvem. O foco da Quarta Revolução Industrial é a melhoria da eficiência e produtividade dos processos',
 )
 criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
-)
-criaCartao(
-    'Historia',
-    'Quando começou a Segunda Guerra Mundial?',
-    '3 de setembro de 1939',
+    'Educação financeira',
+    'O que é CDB?',
+    'O Certificado de Depósito Bancário é um tipo de depósito a prazo, isto é, um produto comumente oferecido por instituições financeiras',
 )

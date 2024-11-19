@@ -1,4 +1,4 @@
-function criaCartao(categoria, pergunta, resposta){
+function criaCartao(categoria, pergunta, resposta) {
     let cartao = document.createElement('article')
     cartao.className = 'cartao'
     cartao.innerHTML = `
@@ -14,12 +14,12 @@ function criaCartao(categoria, pergunta, resposta){
                     </div>
                 </div>
 `
-let respotaEstaVisivel = false
-function viraCartao(){
-     respostaEstaVisual = !respostaEstaVisivel
-     cartao.classList.toggle('active',respostaEstaVisivel)
-}
-cartao.addEventListener('click', viraCartao)
-let container = document.getElementById('container')
+    let respostaEstaVisivel = false
+    function viraCartao() {
+        respostaEstaVisual = !respostaEstaVisivel
+        cartao.classList.toggle('active', respostaEstaVisivel)
+    }
+    cartao.addEventListener('click', viraCartao)
+    let container = document.getElementById('container')
     container.appendChild(cartao)
 }
